@@ -1,2 +1,5 @@
 # jurassic
-Jurassic project
+
+`docker-compose up -d`
+
+`./gradlew bootRun`
